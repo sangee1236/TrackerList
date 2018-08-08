@@ -1,0 +1,12 @@
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\bin\Debug\netcoreapp2.0\TrackerList.Data.deps.json
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\bin\Debug\netcoreapp2.0\TrackerList.Data.dll
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\bin\Debug\netcoreapp2.0\TrackerList.Model.dll
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\bin\Debug\netcoreapp2.0\TrackerList.Model.pdb
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.csprojResolveAssemblyReference.cache
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.csproj.CoreCompileInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.AssemblyInfoInputs.cache
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.AssemblyInfo.cs
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.csproj.CopyComplete
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\bin\Debug\netcoreapp2.0\TrackerList.Data.pdb
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.dll
+F:\job\excelencia\Projects\Office Demo projects\Track\TrackerList.API\TrackerList.Data\obj\Debug\netcoreapp2.0\TrackerList.Data.pdb
